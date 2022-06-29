@@ -1,0 +1,62 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: white;
+  }
+
+  .section-main  {
+
+        padding: 30px;
+        text-align: center;
+        background: white;
+ }
+
+.section-main-primary  {
+        font-size: 40px;
+        background-color: white;
+        padding: 30px;
+        margin-top: 20px;
+
+ }
+
+ .poverty-image  {
+    background-color: white;
+   
+    padding: 30px;
+    margin-top: 20px;
+ }
+
+ .poverty-image_content  {
+    padding: 0 0 0 180px;
+    text-align: center;
+    width: 73%;
+    height: 200px;
+ }
+
+ .test-row  {
+    max-width: 1140px;
+    
+    margin: 0 auto;
+    margin-bottom: 1140px;
+
+   
+   
+   
+ }
+
+ .col-1-of-2    .col-1-of-2  {
+    width: calc((100% - 1140px) / 2);
+}
+    
+
+
+.section-article   {
+    
+    font-size: 25px;
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+
+  
